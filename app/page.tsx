@@ -1,5 +1,6 @@
 
 import Link from "next/link";
+import CopyrightYear from "@/components/CopyrightYear";
 import {
   ArrowRight,
   ArrowUpRight,
